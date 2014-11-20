@@ -1,4 +1,4 @@
 FriendsApps
 ===========
 
-This is my first repository
+Hi i am Android Developer, this is my first repository.
